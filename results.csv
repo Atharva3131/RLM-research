@@ -1,0 +1,17 @@
+method,task_id,success,num_llm_calls,recursion_steps,output_length
+single_pass,0,1,1,0,1581
+cot,0,1,1,0,2748
+react,0,1,4,0,729
+rlm,0,1,10,4,1226
+single_pass,1,1,1,0,1194
+cot,1,1,1,0,3973
+react,1,1,4,0,267
+rlm,1,1,6,2,286
+single_pass,2,1,1,0,6052
+cot,2,1,1,0,6076
+react,2,1,4,0,1228
+rlm,2,1,8,3,1584
+single_pass,3,1,1,0,1129
+cot,3,1,1,0,1864
+react,3,1,4,0,122
+rlm,3,1,6,2,122

@@ -1,0 +1,18 @@
+# LLM orchestration
+langchain>=0.2.0
+langgraph>=0.0.45
+
+# Data handling
+pydantic>=2.0
+
+# Experiment utilities
+numpy>=1.24
+tqdm>=4.66
+
+# Logging & configs
+pyyaml>=6.0
+
+mistralai>=0.4.0
+python-dotenv>=1.0.0
+pandas
+matplotlib
